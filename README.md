@@ -1,6 +1,6 @@
 
 goit-rdb-fp/
-# 📊 SQL Homework: Date Functions & JSON (Orders Table)
+# 📊 Final Project
 
 ![MySQL](https://img.shields.io/badge/MySQL-Workbench-blue)
 ![SQL](https://img.shields.io/badge/SQL-Functions-green)
